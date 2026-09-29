@@ -1,29 +1,40 @@
-# Nathan Park — Builder · Bitcoin Enthusiast · Black Belt
+# Nathan Park — Builder · Trader · Black Belt
 
-> I build tools that think. Trading platforms, AI integrations, custom dashboards — live and running 24/7 from my homelab.
+> A builder who can sell and support. I design, build and run real systems (self-hosted infrastructure, a local AI my
+> family talks to every day, live market tools), then explain them to the people who depend on them.
 
-## What I Build
+**[mammothcapital.site](https://mammothcapital.site)** · [Resume](https://mammothcapital.site/resume.html) · [LinkedIn](https://www.linkedin.com/in/nathan-park-76077b407)
 
-- **Trading Intelligence** — Real-time signal dashboards, WebSocket price feeds, AI market briefings
-- **AI Integrations** — Claude, Gemini, Ollama, local LLM setups (Qwen, DeepSeek, Gemma)
-- **Full-Stack Web Apps** — Python/FastAPI backends, React/Next.js frontends
-- **Local AI Agents** — Self-hosted autonomous systems on your own hardware (no API costs)
-- **Custom Dashboards** — Data visualization, live feeds, multi-source aggregation
+## What I build
 
-## Tech Stack
+- **Self-hosted platforms**: Proxmox with GPU passthrough, Docker, Cloudflare Tunnel, Tailscale. Backed up, tested and documented like production.
+- **Local AI**: a 27B-parameter assistant with speech-to-text, a custom-trained voice and wake word, and role-based permissions. No cloud.
+- **Market tools**: real-time WebSocket dashboards, order flow and liquidations, and an AI engine that writes its thesis down.
+- **Web products**: Python/FastAPI, PHP/MySQL, React/Vite, offline-first PWAs.
+- **AI-directed development**: I direct coding agents (Claude Code, Gemini CLI) and own the architecture, the review and the tests.
 
-`Python` `FastAPI` `React` `Next.js` `Vite` `WebSocket` `Docker` `Cloudflare`  
-`Ollama` `ExLlamaV2` `Claude CLI` `Gemini` `Linux` `KVM`
+## Featured
 
-## Live Projects
+| Project | What it is |
+|---------|------------|
+| [Park Family OS](https://mammothcapital.site/work/park-family-os.html) | Self-hosted platform my family uses daily: shared calendar, chores and meals, synced kiosks, home automation, and "Jake," a voice AI running on our own GPU. Case study. |
+| [Mammoth Pulse PRO](https://pulse.mammothcapital.site) | Multi-asset market pulse: fear & greed, funding, open interest, liquidations |
+| [BTC OmniData](https://omnidata.mammothcapital.site) | Real-time BTC order flow, liquidation zones and tape reads |
+| [BTC Oracle](https://oracle.mammothcapital.site) | AI-powered BTC directional engine with conviction scoring and an LLM-written thesis |
+| [Mammoth Academy](https://learncenter.online) | Offline-first certification prep for web and Android (AWS, CompTIA, Scrum, sales) |
+| [Trade Optimizer](https://github.com/Nathan-Park-90/Trade-Optimizer) | Tauri desktop app (Rust + React/TypeScript) for live market data |
 
-| Project | Description |
-|---------|-------------|
-| [Mammoth Capital](https://mammothcapital.site) | Full-stack trading intelligence platform — signals, AI briefings, multi-tier |
-| [BTC Scalper](https://scalper.tradernate.online) | Real-time BTC/MSTR scalping desk with ATR brackets |
-| [BTC Oracle](https://oracle.tradernate.online) | AI-powered BTC directional prediction engine |
+Everything above with a live link is served from my home lab.
 
-## Hire Me
+## Now
 
-Available for freelance work. Fast turnaround. Honest pricing.  
-→ [tradernate.online](https://tradernate.online) | jp.nate.park@gmail.com
+- Studying for AWS Solutions Architect Associate every night; CompTIA Network+, Security+ and Cloud+ next
+- Building toward Solutions Engineer and infrastructure roles (remote)
+- Shorinji Kempo black belt · US military family in Germany · dad of four
+
+## Tech
+
+`Python` `FastAPI` `PHP/MySQL` `React` `Vite` `WebSocket` `Docker` `Proxmox` `Cloudflare` `Tailscale`
+`Home Assistant` `ExLlamaV3` `Ollama` `Claude Code` `Gemini CLI` `Linux`
+
+📫 nate.park@mammothcapital.site
