@@ -22,7 +22,7 @@
 | [BTC OmniData](https://omnidata.mammothcapital.site) | Real-time BTC order flow, liquidation zones and tape reads |
 | [BTC Oracle](https://oracle.mammothcapital.site) | AI-powered BTC directional engine with conviction scoring and an LLM-written thesis |
 | [Mammoth Academy](https://learncenter.online) | Offline-first certification prep for web and Android (AWS, CompTIA, Scrum, sales) |
-| [Trade Optimizer](https://github.com/Nathan-Park-90/Trade-Optimizer) | Tauri desktop app (Rust + React/TypeScript) for live market data |
+| [Trade Optimizer](https://github.com/Nathan-Park-90/Trade-Optimizer) | Early-stage Tauri app: a Rust core streaming live trades from Finnhub (UI in progress) |
 
 Everything above with a live link is served from my home lab.
 
